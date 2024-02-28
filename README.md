@@ -69,7 +69,6 @@ Cursando Tecnologias em Sistemas para Internet no IFRN campus Currais Novos
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/PVSO/dartWeek10?style=flat-square" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PVSO/dartWeek10?style=flat-square" /></td>
         </tr>
-        
     </tbody>
 </table>
 
