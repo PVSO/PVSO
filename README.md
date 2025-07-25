@@ -3,14 +3,13 @@
 [//]: # (Desde já agradeço por sua atenção)
 
 [//]: # ()
-[//]: # (Prazer, meu nome é **Pedro Vinícius** e me apaixonei pela área da programação desde 2019 quando tive o primeiro contato no curso superior de Tecnologias em Sistemas para Internet do IFRN, campus Currais Novos)
+[//]: # ( desde 2019 quando tive o primeiro contato no curso superior de Tecnologias em Sistemas para Internet do IFRN, campus Currais Novos)
 
 [//]: # ()
 [//]: # (Aqui você vai encontrar todos os projetos no qual participei ou estou trabalhando)
 
 # 💫 Sobre Mim:
-Atualmente estou em busca da primeira oportunidade de trabalho na área de programação  
-Cursando Tecnologias em Sistemas para Internet no IFRN campus Currais Novos
+Prazer, meu nome é **Pedro Vinícius** e me apaixonei pela área da programação no curso de Tecnologias em Sistemas para Internet – IFRN, com foco em desenvolvimento web full-stack. Conhecimento em HTML, CSS, JavaScript, Python, Django e Banco de Dados relacionais. Interessa-se por desenvolvimento de aplicações modernas, com boas práticas de código, experiência do usuário e integração entre frontend e backend.
 
 
 ## 🌐 Redes Sociais:
