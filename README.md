@@ -72,8 +72,8 @@ Prazer, meu nome é **Pedro Vinícius** e me apaixonei pela área da programaç�
 </table>
 
 # 📊 GitHub Stats:
-![Estátisticas GitHub](https://github-readme-stats.vercel.app/api?username=pvso&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![Estátisticas GitHub](https://github-readme-stats.vercel.app/api?username=pvso&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
 
 [//]: # (![]&#40;https://github-readme-streak-stats.herokuapp.com/?user=PhilipeeX&theme=blue-green&hide_border=true&#41;<br/>)
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=pvso&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&#41;)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvso&hide=dart,makefile&theme=highcontrast&hide_border=true&layout=pie)](https://github.com/pvso/github-readme-statstheme=light&hide_border=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvso&hide=dart,makefile&theme=dracula&hide_border=true&layout=pie)](https://github.com/pvso/github-readme-statstheme=light&hide_border=true&include_all_commits=true&count_private=true)
